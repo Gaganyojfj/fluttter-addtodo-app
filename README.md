@@ -1,8 +1,10 @@
-# billionaireapp
+# addotoapp
 
 A new Flutter project.
 
 ## Getting Started
+
+This porject is example for add todo list app made in flutter  
 
 This project is a starting point for a Flutter application.
 
